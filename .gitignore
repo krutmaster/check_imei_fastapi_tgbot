@@ -1,0 +1,7 @@
+test.py
+.*
+*.db
+*.log
+!.gitignore
+_*
+venv
